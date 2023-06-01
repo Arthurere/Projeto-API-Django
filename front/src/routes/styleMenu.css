@@ -1,0 +1,18 @@
+#fundo{
+    text-align: center;
+    margin:auto;
+    background-color: rgb(255, 255, 255);
+    width: 1350px;
+    
+}
+.usuario {
+    background-color: rgb(238, 221, 245);
+    border: 2px solid #e2bcfb;
+    width: 300px;
+    text-align: center;
+    margin:auto;
+}
+.botao {
+    background-color: rgb(156, 76, 188);
+    
+}
